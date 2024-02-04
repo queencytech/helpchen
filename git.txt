@@ -1,0 +1,6 @@
+1. Visit the official Git website: https://git-scm.com
+2. Locate the "Downloads" section on the home page
+3. Select your operating system (Windows, macOS, or Linux) and download the appropriate installer
+4. Run the installer and follow the on-screen instructions to complete the installation
+5. Open a terminal or command prompt to verify the installation by typing git --version.
+You should see the installed Git version
